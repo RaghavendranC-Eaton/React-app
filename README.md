@@ -50,3 +50,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ![alt text](https://api.github.com/etn-electrical/derms-tertiary-dde-optimizer/main/res/mosaic-optimizer.png)
 
 ![alt Text](https://github.com/etn-electrical/derms-tertiary-dde-optimizer/blob/main/res/mosaic-optimizer.png)
+
+![user menu](https://github.com/etn-electrical/derms-library-react/blob/main/src/assets/images/README/dashbord/Get_to_Know_Derms1.JPG)
