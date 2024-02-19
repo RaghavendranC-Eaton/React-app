@@ -46,3 +46,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ![](https://raw.githubusercontent.com/etn-electrical/derms-tertiary-dde-optimizer/main/res/mosaic-optimizer.png?token=A7XLY53FSRTGDAX2R5RKI3DF2MFNM)
+
+![alt text](https://raw.githubusercontent.com/etn-electrical/derms-tertiary-dde-optimizer/main/res/mosaic-optimizer.png)
